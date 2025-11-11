@@ -1,4 +1,4 @@
-# HTTP JPEG Fetcher
+# Network Packet Analyzer
 
 ## Description
 
